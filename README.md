@@ -1,6 +1,6 @@
 # Welcome to Junyin Luo's GitHub Profile! 🌟
 
-![Banner]([URL_of_a_personalized_banner_image](https://github.com/JunyinLuo/JunyinLuo/blob/98e52a9578afafb5ae4794a88830a418bb0e3e2e/DALL%C2%B7E%202023-12-05%2000.18.31%20-%20An%20infographic%20illustrating%20a%20female%20data%20scientist's%20professional%20focus%2C%20with%20skills%20in%20Python%2C%20R%2C%20C%2C%20C%2B%2B%2C%20and%20SQL.%20The%20graphic%20should%20include%20femini.png))
+![Banner]([URL_of_a_personalized_banner_image](DALL·E 2023-12-05 00.18.31 - An infographic illustrating a female data scientist's professional focus, with skills in Python, R, C, C++, and SQL. The graphic should include femini.png)
 
 Hi there! I'm **Junyin Luo**, a passionate data science enthusiast from Beijing, China, currently pursuing my Master's in Quantitative Methods in Social Sciences at Columbia University, specializing in Data Science. 📊🎓
 
