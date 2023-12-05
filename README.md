@@ -23,7 +23,7 @@ Hi there! I'm **Junyin Luo**, a passionate data science enthusiast from Beijing,
 (Here, you can list your key projects with links to the repositories. Include a brief description and any relevant technologies used.)
 
 - **Project 1**: [IMDB Movie Data Search and Acquisition]([GitHub link](https://github.com/QMSS-G5072-2023/Junyin_Luo/blob/9763d3bc5be845498ced81ce2b14f7370514b5a0/final_proposal/summit.md)) - The IMDB_Dataset API project aims to seamlessly empower users with access to the dynamic world of the IMDB dataset. This Python package encompasses three key functionalities to enrich the user experience: initializing the API, searching for movies, and obtaining detailed information about movies.
-- **Project 2**: [Writing a API Client in Python]([GitHub link](https://github.com/QMSS-G5072-2023/Junyin_Luo/blob/9763d3bc5be845498ced81ce2b14f7370514b5a0/hw08/hw08.ipynb)) - A brief description.
+- **Project 2**: [Writing a API Client in Python]([GitHub link](https://github.com/QMSS-G5072-2023/Junyin_Luo/blob/9763d3bc5be845498ced81ce2b14f7370514b5a0/hw08/hw08.ipynb)) - This project involves interacting with web APIs using Python's `requests` package. The main tasks include selecting an appropriate API, fetching data from it, and writing a simple API client function to streamline the data retrieval process.
 
 ## Connect with Me 🌐
 
@@ -31,7 +31,6 @@ Feel free to connect with me on social platforms!
 
 - [Instagram](https://www.instagram.com/nancyluo77/)
 - [Xiaohongshu](https://www.xiaohongshu.com/user/profile/5fae997d0000000001005aa4)
-- [LinkedIn](#) (Optional: Add your LinkedIn profile link here)
 
 ---
 
