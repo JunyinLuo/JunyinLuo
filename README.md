@@ -1,6 +1,6 @@
 # Welcome to Junyin Luo's GitHub Profile! 🌟
 
-![Banner](DALL·E 2023-12-05 00.18.31 - An infographic illustrating a female data scientist's professional focus, with skills in Python, R, C, C++, and SQL. The graphic should include femini.png)
+![Banner](file.png)
 
 Hi there! I'm **Junyin Luo**, a passionate data science enthusiast from Beijing, China, currently pursuing my Master's in Quantitative Methods in Social Sciences at Columbia University, specializing in Data Science. 📊🎓
 
